@@ -1,0 +1,7 @@
+/target/
+/Historial Facturas/
+/config.properties
+/categorias.xml
+/nbproject/private/
+*.class
+*.log
